@@ -1,2 +1,1 @@
-# TMOMO-BUDDY
-Stock Taking
+TMOMO BUDDY
